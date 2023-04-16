@@ -11,13 +11,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2022-2023 Hugo – [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Sun, 16 Apr 2023 08:48:26 -0500</lastBuildDate><atom:link href="https://seanoh1014.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Apr 2023 12:00:40 -0500</lastBuildDate><atom:link href="https://seanoh1014.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Uses</title>
-      <link>https://seanoh1014.github.io/posts/uses/</link>
-      <pubDate>Sun, 16 Apr 2023 08:48:26 -0500</pubDate>
+      <title>Markdown Syntax</title>
+      <link>https://seanoh1014.github.io/posts/markdown-syntax/</link>
+      <pubDate>Sun, 16 Apr 2023 12:00:40 -0500</pubDate>
       
-      <guid>https://seanoh1014.github.io/posts/uses/</guid>
+      <guid>https://seanoh1014.github.io/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
 <h2 id="headings">Headings</h2>
