@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://seanoh1014.github.io/sitemap.xml
