@@ -151,7 +151,7 @@ This is pre text
 </span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span></span></span></code></pre></div>
 <h4 id="gist">Gist</h4>
-<script type="application/javascript" src="https://gist.github.com/spf13/7896402.js"></script>
+<script src="https://gist.github.com/spf13/7896402.js"></script>
 
 <h2 id="list-types">List Types</h2>
 <h4 id="ordered-list">Ordered List</h4>
